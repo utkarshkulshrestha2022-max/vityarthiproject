@@ -1,0 +1,10 @@
+Problem Statement : Road lane markings play a major role in guiding drivers and maintaining safe vehicle movement. However, in many situations—like poor lighting, shadows, worn-out paint, or fast-moving traffic—lane boundaries become difficult to see. This increases the chances of accidents and lane drifting.
+To address this issue, there is a need for a computer-based solution that can automatically detect and highlight lane lines from road videos. This project focuses on using classical image segmentation techniques to identify and mark lanes in real-time driving footage.
+
+Scope of the Project : The scope of this project includes implementing and testing classical image segmentation methods (such as edge detection, thresholding, and region masking) to extract lane boundaries from video frames.
+The system will process input video, apply segmentation algorithms, highlight lane lines, and display the resulting output.
+This project does not use deep learning models or advanced hardware; it focuses only on computer vision techniques that run on a regular computer. The system is designed for educational purposes and as a foundation for more advanced driver-assistance systems.
+
+Target Users : Students & Researchers working on computer vision, image processing, or autonomous driving topics , Developers interested in learning classical segmentation methods , Transportation and road safety teams who want basic lane-marking detection systems , Educators who need simple examples to teach image segmentation concepts
+
+High-Level Features : Video Input Processing: Accepts real driving videos and reads them frame-by-frame , Preprocessing: Applies resizing, grayscale conversion, and smoothing filters , Image Segmentation: Detects edges, extracts lane regions using masks, and highlights lane lines , Real-Time Visualization: Shows processed frames with detected lines drawn on them , Lightweight System: Works without heavy machine learning libraries , Extendable Structure: Easy to upgrade to advanced segmentation or deep learning in future
