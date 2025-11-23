@@ -17,3 +17,9 @@ The output window will show the processed frames with detected lanes.
 Instructions for Testing : Use any real road driving video (daytime works best). Try different driving environments: Straight roads , Curvy roads , Highways , Local streets
 Compare how segmentation performs with: Bright sunlight , Shadows , Road turns
 Adjust Canny thresholds in code to improve detection.
+
+output screenshots: <img width="633" height="394" alt="Image" src="https://github.com/user-attachments/assets/a6525ff1-761b-4162-9e7d-61bc42ec6d2a" />
+
+<img width="634" height="392" alt="Image" src="https://github.com/user-attachments/assets/93695cf5-5f7d-489d-9f6a-6d6f031152b3" />
+
+<img width="1469" height="924" alt="Image" src="https://github.com/user-attachments/assets/62abb70f-b367-439e-b97e-ac4304f661d9" />
